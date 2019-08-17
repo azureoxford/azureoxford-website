@@ -1,0 +1,1 @@
+docker build -t azureoxford-website:0.0.1 .
