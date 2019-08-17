@@ -1,6 +1,10 @@
 Title: "About Azure Oxford"
 ---
-Azure Oxford is a user-group based in the UK aimed at .NET developers. It was founded by [Dan Clarke](https://www.twitter.com/dracan) and [James World](https://www.twitter.com/jamesw0rld), and has grown into quite a large community in the Oxfordshire area.
+Azure Oxford is a user-group based in the UK for users of the Microsoft cloud platform, [Azure](https://azure.microsoft.com/en-gb/).
+
+It was founded in 2019 by [Dan Clarke](https://www.twitter.com/dracan) and [James World](https://www.twitter.com/jamesw0rld), and has spawned off as a sister-user group from [.NET Oxford](https://www.dotnetoxford.com).
+
+Whilst anybody is welcome, the group is primarily targeted for developers.
 
 ---
 
@@ -19,7 +23,7 @@ Azure Oxford is a user-group based in the UK aimed at .NET developers. It was fo
 ### Corriculo Recruitment
 
 ![](/assets/images/CorriculoLogo.jpg){style='width: 200px; float: left; margin-right: 30px'}
-Our primary sponsor is [Corriculo Recruitment](https://corriculo.co.uk/). They have been our main sponsors from the very start, helping us out in so many different ways. Financially with the venue costs and providing drinks and refreshments for all our events. At each event, helping welcome everyone in through the doors and serving drinks. And also behind the scenes with marketing and promotion, ideas and suggestions. Definitely a core part of both the Azure Oxford and .NET Oxford team!{style='float: left'}
+Our primary sponsor is [Corriculo Recruitment](https://corriculo.co.uk/). They are also the primary sponsors of our sister user-group, [.NET Oxford](https://www.dotnetoxford.com), and help us out in so many different ways. Financially with the venue costs and providing drinks and refreshments for all our events. At each event, helping welcome everyone in through the doors and serving drinks. And also behind the scenes with marketing and promotion, ideas and suggestions. Definitely a core part of both Azure Oxford and .NET Oxford!{style='float: left'}
 
 ### Everstack Ltd
 
@@ -30,9 +34,8 @@ Our secondary sponsor is Dan's company, [Everstack Ltd](https://www.everstack.co
 
 We also do a monthly prize draw, and our prize draw sponsors are:
 
-* [Jetbrains](https://jetbrains.com)
 * [Manning Publications](https://manning.com)
-* [Oz-Code](https://oz-code.com/)
+* _(more to come soon!)_
 
 ### Photography
 
