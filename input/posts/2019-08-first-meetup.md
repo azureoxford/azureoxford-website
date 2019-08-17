@@ -1,6 +1,6 @@
 Title: The First Meetup!
 Published: 05/08/2019
-Tags: [CognitiveService, AzureAD, ApplicationInsights, LogicApps, AzureFunctions, FromTheTrenches]
+Tags: [CognitiveService, AzureAD, ApplicationInsights, LogicApps, AzureFunctions, From-The-Trenches]
 Image: /assets/images/2019-08.jpg
 ---
 
@@ -25,7 +25,7 @@ _In this talk, I'll outline the strategy my current client Thomas International 
 ---
 
 ### Photos / Video
-* [Photos]()
+* [Photos](https://www.dropbox.com/sh/vlh2900tdxgx5b0/AABIIGb2I5aXZ6UVaZACmiAua?dl=0)
 
 ---
 
@@ -39,19 +39,6 @@ _In this talk, I'll outline the strategy my current client Thomas International 
 
 ---
 
-### Speaker's Links
+### Speakers' Links
 
-* [Speaker's Slides]() (TODO)
-
----
-
-### News Items
-
-* TODO
-
----
-
-### Prize-draw winners
-
-* **Manning ebook**: TODO
-* **Azure Credits**: TODO
+* [James' slides](https://1drv.ms/b/s!AjtvlE3HDneXgahp_AZFOGDdmL6QBA?e=gO6NeK)
