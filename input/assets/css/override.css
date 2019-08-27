@@ -1,19 +1,24 @@
 .intro-header {
   background-position: left;
+  background-color: #000 !important;
+    background-image: url("/assets/images/header.png") !important;
+    background-size: 768px !important;
+    margin-bottom: 0px !important;
 }
 
 @media screen and (max-width: 767px) {
   .isHomePage {
-    background-image: url("/assets/images/header_small.png") !important;
-    background-size: 100% !important;
-    background-color: #69287c !important;
-    height: 320px !important;
+    /* background-image: url("/assets/images/header_small.png") !important; */
+    background-size: 768px !important;
+    height: 310px;
+    background-color: #000 !important;
     margin-bottom: 0px !important;
   }
 }
 
-@media screen and (min-width: 400px) and (max-width: 767px) {
+@media screen and (max-width: 400px) {
   .isHomePage {
-    height: 400px !important;
+    background-size: 359px !important;
+    height: 155px;
   }
 }
