@@ -1,6 +1,5 @@
 @media screen and (max-width: 767px) {
     .isHomePage {
-        background-position: 0px 0px !important;
         background-image: url("/assets/images/HeaderSmall.jpg") !important;
     }
 }
