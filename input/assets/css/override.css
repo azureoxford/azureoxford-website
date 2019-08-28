@@ -1,24 +1,6 @@
-.intro-header {
-  background-position: left;
-  background-color: #000 !important;
-    background-image: url("/assets/images/header.png") !important;
-    background-size: 768px !important;
-    margin-bottom: 0px !important;
-}
-
 @media screen and (max-width: 767px) {
-  .isHomePage {
-    /* background-image: url("/assets/images/header_small.png") !important; */
-    background-size: 768px !important;
-    height: 310px;
-    background-color: #000 !important;
-    margin-bottom: 0px !important;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .isHomePage {
-    background-size: 359px !important;
-    height: 155px;
-  }
+    .isHomePage {
+        background-position: 0px 0px !important;
+        background-image: url("/assets/images/HeaderSmall.jpg") !important;
+    }
 }
