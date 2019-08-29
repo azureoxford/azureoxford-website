@@ -2,6 +2,10 @@
     text-align: right;
 }
 
+.navbar-brand img:hover {
+    cursor: pointer;
+}
+
 @media screen and (max-width: 767px) {
     .isHomePage {
         background-image: url("/assets/images/HeaderSmall.jpg") !important;
