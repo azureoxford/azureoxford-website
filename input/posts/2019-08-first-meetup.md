@@ -25,7 +25,7 @@ _In this talk, I'll outline the strategy my current client Thomas International 
 ---
 
 ### Photos / Video
-* [Photos](https://www.dropbox.com/sh/vlh2900tdxgx5b0/AABIIGb2I5aXZ6UVaZACmiAua?dl=0)
+* [Photos](https://www.dropbox.com/sh/vlh2900tdxgx5b0/AABIIGb2I5aXZ6UVaZACmiAua?dl=0) (thanks to our photographer, [John Parkin](https://www.linkedin.com/in/johnrparkin/)!)
 
 ---
 
