@@ -1,6 +1,6 @@
 Title: The First Meetup!
 Published: 05/08/2019
-Tags: [CognitiveService, AzureAD, ApplicationInsights, LogicApps, AzureFunctions, From-The-Trenches]
+Tags: [CognitiveService, AzureAD, ApplicationInsights, LogicApps, AzureFunctions, From-The-Trenches, AzureDevOps]
 Image: /assets/images/2019-08.jpg
 ---
 
