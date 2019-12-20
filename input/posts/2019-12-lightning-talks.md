@@ -19,7 +19,7 @@ Image: /assets/images/2019-12.jpg
 
 ### Photos
 
-* (Photos coming soon) - Thanks to Richard Baldwin for the photography!
+* [Photos](https://www.dropbox.com/sh/xrwdxpuhjjiwjca/AACegByi7M2MuXuhhO6hFqAva?dl=0) - A massive thanks to Richard Baldwin for the amazing photography!
 
 ---
 
