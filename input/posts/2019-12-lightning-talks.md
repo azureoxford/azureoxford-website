@@ -26,6 +26,7 @@ Image: /assets/images/2019-12.jpg
 ### Speakers' slides and links
 
 * Azure CLI and Cloud Shell - Dan Clarke
+  * [Longer version on YouTube](https://www.youtube.com/watch?v=qE9nqoCcml4)
   * [Slides](https://www.dropbox.com/s/emofn6rfnoikfh1/AzureCliAndCloudShell.pptx?dl=0) (warning: 53mb file)
   * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
   * [Azure CLI Tools for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
