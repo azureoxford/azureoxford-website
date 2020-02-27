@@ -14,7 +14,9 @@ COPY FROM MEETUP, AND WRAP IN _""_ (SO IT'S IN ITALICS AND QUOTES)
 ---
 
 ### Photos / Video
+
 * [Photos]() (thanks to our photographer, [John Parkin](https://www.linkedin.com/in/johnrparkin/)!)
+* Video coming soon - thanks to Alex from [Pusher](https://www.pusher.com/) for recording this for us
 
 ---
 
@@ -42,15 +44,13 @@ COPY FROM MEETUP, AND WRAP IN _""_ (SO IT'S IN ITALICS AND QUOTES)
 
 * **[Corriculo Recruitment](https://corriculo.co.uk)** - Kindly covering the venue, drinks, and helping us at each event
 * **[Everstack](https://www.everstack.com)** - Dan's company, helping organise and manage the user group
-* **.NET Insights** - James' company
-
 * **[Manning Books](https://www.manning.com)** - Prize draw sponsor (ebook of winner's choice)
 * **[New Orbit](https://neworbit.co.uk)** - Prize draw sponsor (Raspberry Pi starter kit)
+* **[Pusher](https://www.pusher.com/)** - Video recordings
 
 ---
 
 ### Prize-draw winners
 
-* **Jetbrains**: _(waiting for reply from winner, so won't post name without permission)_
-* **Manning ebook**: _(waiting for reply from winner, so won't post name without permission)_
-* **Oz-Code**: _(waiting for reply from winner, so won't post name without permission)_
+* **Manning ebook**: TODO
+* **Raspberry Pi Starter Kit (New Orbit)**: TODO
