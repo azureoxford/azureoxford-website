@@ -21,10 +21,15 @@ Twitter: https://twitter.com/Carmel_Eve
 
 ---
 
-### Photos / Video
+### Photos
 
 * [Photos](https://www.dropbox.com/sh/ujlhxvtvu8a50k5/AABiOW0sb8n5guhoAwKffVgGa?dl=0) - sorry about the photo quality, we didn't have our usual photographer this time, and the photos are from both mine and [James Broomej's](https://www.linkedin.com/in/broomej/) (from endjin) mobile phones
-* Video coming soon - thanks to Alex from [Pusher](https://www.pusher.com/) for recording this for us
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeh_-mxnq-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Thanks to Alex from [Pusher](https://www.pusher.com/) for recording this for us!
 
 ---
 
