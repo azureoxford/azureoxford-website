@@ -5,7 +5,7 @@ Image: /assets/images/2020-02.jpg
 ---
 ### Talk Description
 
-_"llegal fishing is a worldwide problem which threatens developing nations, damages marine wildlife and supports other criminal activities like human trafficking and slavery. Recently we worked with a not-for-profit who, through machine learning and complex geo-spatial models, detects and helps to tackle this vital global issue. Through Microsoft Azure, we enabled them to more reliably, and in near-real-time, produce fishing alerts from all over the world._
+_"Illegal fishing is a worldwide problem which threatens developing nations, damages marine wildlife and supports other criminal activities like human trafficking and slavery. Recently we worked with a not-for-profit who, through machine learning and complex geo-spatial models, detects and helps to tackle this vital global issue. Through Microsoft Azure, we enabled them to more reliably, and in near-real-time, produce fishing alerts from all over the world._
 
 _In this talk we will walk through how to construct a cloud-first architecture based on serverless and data analytics technologies. We will then explore the important principles and challenges in designing this kind of solution. Finally, we will see how the architecture we designed through this process not only provides all the benefits of the cloud (reliability, scalability, security), but because of the pay-as-you-go compute model, has a compute cost of less than £10 per month!"_
 
